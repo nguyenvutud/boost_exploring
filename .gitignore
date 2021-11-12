@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+.vscode
+.settings
+.cproject
+.project
+build
+bin
+
+# Except this file
+!.gitignore
+#!.vscode/launch.json
